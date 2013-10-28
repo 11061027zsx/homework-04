@@ -1,0 +1,10 @@
+week
+find
+rand
+sleu
+back
+vert
+diag
+wiki
+hori
+word
